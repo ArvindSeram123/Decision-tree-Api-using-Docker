@@ -44,3 +44,5 @@ response = requests.post(url, json=data)
 print("Status Code:", response.status_code)
 print("Prediction:", response.json())
 ```
+![image](https://github.com/user-attachments/assets/f8dc8d7c-d98d-46e3-a76e-5a288d1cb7d2)
+
